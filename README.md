@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud computing 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on python problems 
-- 📫 How to reach me www.LinkedIn.com/veerapallapothu
+- 📫 How to reach me www.LinkedIn.com/in/veerapallapothu
 
 <!---
 veera-raju/veera-raju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
