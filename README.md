@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veera-raju
 - 👀 I’m interested in cloud computing 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python, mssql, powerapps and powerbi
 - 💞️ I’m looking to collaborate on python problems 
 - 📫 How to reach me www.LinkedIn.com/in/veerapallapothu
 
